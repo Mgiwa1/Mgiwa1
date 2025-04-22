@@ -1,4 +1,10 @@
-## Hi there 👋
+# Welcome to Steez Nation
+
+#### Home of Marcus Giwa
+###### Nigerian American Tech Professional, navigating through the journey of becoming a better Cloud Engineer day-by-day. God First Always, followed by Family, Fitness, & Finances. Huge NFL and Baltimore Ravens fan.
+
+[x] Initialize README
+[] Profit???
 
 <!--
 **Mgiwa1/Mgiwa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
